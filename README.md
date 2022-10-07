@@ -1,11 +1,11 @@
-### Hi there 👋, I'm Yoo Hyunji
+## Hi there 👋, I'm Yoo Hyunji
 
 ![Blog](https://img.shields.io/badge/Blog-339933?style=flat-square&logo=GitHub&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-4479A1?style=flat-square&logo=Gmail&logoColor=white)
 
 <br />
 
-#### Tech Stack
+### Tech Stack
 
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -16,7 +16,7 @@
 
 <br />
 
-#### Challenges
+### Challenges
 * [원티드 프리온보딩 챌린지 CSR/SSR with Next.js](https://www.wanted.co.kr/events/pre_challenge_fe_3)  ( 10월 3일 ~ 10월 15일 )
 * [가장 실무에 가까운 쿠팡 클론 코딩 챕터 Ⅱ](https://www.numble.it/84b74183-c72e-4502-91c9-e41fbf0aa7aa)  ( 8월 19일 ~ 9월 29일 )
 * [가장 실무에 가까운 쿠팡 클론 코딩 챕터 Ⅰ](https://www.numble.it/84b74183-c72e-4502-91c9-e41fbf0aa7aa)  ( 6월 17일 ~ 7월 28일 )
