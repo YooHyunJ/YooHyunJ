@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Yoo Hyunji
 
-![Blog](https://img.shields.io/badge/Blog-339933?style=flat-square&logo=GitHub&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-4479A1?style=flat-square&logo=Gmail&logoColor=white)
+[![Blog](https://img.shields.io/badge/Blog-339933?style=flat-square&logo=GitHub&logoColor=white)](https://yoolog.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-4479A1?style=flat-square&logo=Gmail&logoColor=white)](mailto:yoohunn@gmail.com)
 
 <br />
 
