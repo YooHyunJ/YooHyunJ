@@ -1,7 +1,9 @@
 ## Hi there 👋, I'm Yoo Hyunji
 
-[![Blog](https://img.shields.io/badge/Blog-339933?style=flat-square&logo=GitHub&logoColor=white)](https://yoolog.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-4479A1?style=flat-square&logo=Gmail&logoColor=white)](mailto:yoohunn@gmail.com)
+### About Me 🥷🏻
+- 🏡 Living in: **Seoul,** Republic of Korea
+- 📩 Email: [woozzaang@gmail.com](yoohunn@gmail.com)
+- 🗒 Blog :: [**Back to the Basics**](https://yoolog.vercel.app/)
 
 <br />
 
