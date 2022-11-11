@@ -2,7 +2,7 @@
 
 ### About Me 🥷🏻
 - 🏡 Living in: **Seoul,** Republic of Korea
-- 📩 Email: [woozzaang@gmail.com](yoohunn@gmail.com)
+- 📩 Email: [yoohunn@gmail.com](yoohunn@gmail.com)
 - 🗒 Blog :: [**Back to the Basics**](https://yoolog.vercel.app/)
 
 <br />
