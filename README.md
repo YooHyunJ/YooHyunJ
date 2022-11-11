@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Yoo Hyunji
+## Hi there 👋
 
 ### About Me 🥷🏻
 - 🏡 Living in: **Seoul,** Republic of Korea
@@ -13,8 +13,8 @@
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.Js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![Emotion](https://img.shields.io/badge/Emotion-DB7093?style=flat-square&logo=Emotion&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white)
+![Emotion](https://img.shields.io/badge/Emotion-DB7093?style=flat-square&logo=Emotion&logoColor=white)
 
 <br />
 
