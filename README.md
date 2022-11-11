@@ -3,7 +3,7 @@
 ### About Me 🥷🏻
 - 🏡 Living in: **Seoul,** Republic of Korea
 - 📩 Email: [yoohunn@gmail.com](yoohunn@gmail.com)
-- 🗒 Blog :: [**YooHyunJ**](https://yoolog.vercel.app/)
+- 🗒 Blog: [**YooHyunJ**](https://yoolog.vercel.app/)
 
 <br />
 
